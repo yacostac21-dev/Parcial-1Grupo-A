@@ -1,0 +1,11 @@
+INSERT estudiante Juan 2025-12345;
+INSERT curso Compiladores SIS305;
+SHOW estudiante Juan;
+SHOW curso MAT101;
+INSERT curso BasesDeDatos MATH01;
+# Este es un comentario que debe ser ignorado
+INSERT estudiante Maria 2024-67890;
+SHOW curso ABC123;
+INSERT estudiante Pedro123 2025-11111;
+SHOW estudiante Ana;
+INSERT curso Matematicas MAT999;
